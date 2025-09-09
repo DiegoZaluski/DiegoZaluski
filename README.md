@@ -8,7 +8,7 @@
         href="https://github.com/DiegoZaluski/LaPlace" 
         style="color: white;
               text-underline-offset:5.5px;
-              text-decoration-thickness:2px;">🦖 Current Study Project</a></h1>
+              text-decoration-thickness:2px;">Current Study Project</a></h1>
     </td>
   </tr>
 
