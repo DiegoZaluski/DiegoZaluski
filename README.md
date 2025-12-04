@@ -8,7 +8,7 @@
         href="https://github.com/DiegoZaluski/Place" 
         style="color: white;
               text-underline-offset:5.5px;
-              text-decoration-thickness:2px;">PLACE</a></h1>
+              text-decoration-thickness:2px;">Scry</a></h1>
     </td>
   </tr>
 
